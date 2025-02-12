@@ -1,8 +1,10 @@
 <h2 align="left">Hi 👋! My name is Gem and I'm a Masters Student | Aspiring Software Engineer</h2>
 
-###
-
-<p align="left">Currently blending human behavior with tech, one line of code at a time.<br>- 🎓 Bachelor of Behavioural Science (Psychology) from QUT<br>- 💻 Master of Information Technology (Computer Science) at QUT – still a WIP<br>- 🚀 Sharpening my skills in coding, data structures & algorithms, and web development<br>- 🔨 Building personal projects while making sense of the digital world</p>
+Currently blending human behavior with tech, one line of code at a time.
+- 🎓 Bachelor of Behavioural Science (Psychology) from QUT
+- 💻 Master of Information Technology (Computer Science) at QUT – still a WIP
+- 🚀 Sharpening my skills in coding, data structures & algorithms, and web development
+- 🔨 Building personal projects while making sense of the digital world
 
 ###
 
