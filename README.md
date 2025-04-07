@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Gem and I'm a Masters Student | Aspiring Data Scientist/Software Engineer</h2>
+<h2 align="left">Hi 👋! I'm Gem 
 
 Currently blending human behavior with tech, one line of code at a time.
 - 🎓 Bachelor of Behavioural Science (Psychology) from QUT
