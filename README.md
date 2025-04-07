@@ -1,6 +1,5 @@
 <h2 align="left">Hi 👋! I'm Gem 
 
-Currently blending human behavior with tech, one line of code at a time.
 - 🎓 Bachelor of Behavioural Science (Psychology) from QUT
 - 💻 Master of Information Technology (Computer Science) at QUT – still a WIP
 - 🚀 Sharpening my skills in coding, data structures & algorithms, and web development
