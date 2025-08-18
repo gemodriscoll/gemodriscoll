@@ -3,5 +3,4 @@
 
 - 🎓 Bachelor of Behavioural Science (Psychology) from QUT
 - 💻 Master of Information Technology (Computer Science) at QUT – still a WIP
-- 🚀 Sharpening my skills in coding, data structures & algorithms, and web development
-- 🔨 Building personal projects while making sense of the digital world
+- 🚀 Sharpening my skills in data structures & algorithms, and web development
