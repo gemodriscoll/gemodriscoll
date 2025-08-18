@@ -7,7 +7,7 @@
 
 <h3 🧰 align="center">Toolkit</h3>
 Languages:
-Python C C# Ruby
+Python | C | C# | Ruby
 
 Frameworks & Tools:
-Power BI Tableau
+Power BI | Tableau
