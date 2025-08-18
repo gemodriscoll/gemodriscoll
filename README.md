@@ -4,3 +4,10 @@
 - 🎓 Bachelor of Behavioural Science (Psychology) from QUT
 - 💻 Master of Information Technology (Computer Science) at QUT – still a WIP
 - 🚀 Sharpening my skills in data structures & algorithms, and web development
+
+<h3 🧰 align="center">Toolkit</h3>
+Languages:
+Python C C# Ruby
+
+Frameworks & Tools:
+Power BI Tableau
