@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! I'm Gem</h2>
+<h2 align="center">Hi! 👋 I'm Gem</h2>
 <h3 align="center">I know it doesn't look like it, but I got this ✨</h3>
 
 <picture>
