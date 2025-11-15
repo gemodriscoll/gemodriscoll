@@ -1,5 +1,12 @@
-<h2 align="center">Hi! 👋 I'm Gem</h2>
-<h3 align="center">I know it doesn't look like it, but I got this ✨</h3>
+### Hey there!👋
+
+I'm **Gem**, a UX designer and data storyteller based in Australia.
+
+Currently: Master of Computer Science @ QUT | Previously: Psychology grad who switched from studying people to designing for them.
+
+I like to build interfaces that make sense and find stories hidden in data.
+
+My main tech stack is Python, C#, Tableau, and PowerBI. My favourite tools are Figma, VS Code, Procreate on my iPad, and Notion (way too much Notion).
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gemodriscoll/gemodriscoll/output/github-snake-dark.svg">
@@ -7,13 +14,9 @@
   <img alt="snake animation" src="https://raw.githubusercontent.com/gemodriscoll/gemodriscoll/output/github-snake.svg">
 </picture>
 
-- 🎓 Bachelor of Behavioural Science (Psychology) from QUT
-- 💻 Master of Information Technology (Computer Science) at QUT – still a WIP
-- 🚀 Sharpening my skills in data structures & algorithms, and web development
+#### Fun Facts:
 
-<h3 🧰 align="center">Toolkit</h3>
-Languages:
-Python | C | C# | Ruby
-
-Frameworks & Tools:
-Power BI | Tableau
+* I have a cat, his name is Oliver Darcy
+* I'm a total bookworm and guilty of reading fanfiction here or there
+* I love to build things
+* Minecraft and Stardew Valley are my go-to chill games
