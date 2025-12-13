@@ -1,12 +1,12 @@
 ### Hey there!👋
 
-I'm **Gem**, a UX designer and data storyteller based in Australia.
+I'm **Gem**
 
 Currently: Master of Computer Science @ QUT | Previously: Psychology grad who switched from studying people to designing for them.
 
-I like to build interfaces that make sense and find stories hidden in data.
+I like to build things I find cool and find stories hidden in data (but my interests are ever changing).
 
-My main tech stack is Python, C#, C, C++, Tableau, and PowerBI. My favourite tools are Figma, Neovim, Procreate on my iPad, and Notion (way too much Notion).
+My main tech stack is Python, C#, Tableau, and PowerBI. Looking into learning more about CLI Tools at the moment. My favourite tools at the moment are Figma, Neovim, Procreate on my iPad, and Notion (way too much Notion).
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gemodriscoll/gemodriscoll/output/github-snake-dark.svg">
