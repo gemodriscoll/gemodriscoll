@@ -6,7 +6,7 @@ Currently: Master of Computer Science @ QUT | Previously: Psychology grad who sw
 
 I like to build things I find cool and find stories hidden in data (but my interests are ever changing).
 
-My main tech stack is Python, C#, Tableau, and PowerBI. Looking into learning more about CLI Tools at the moment. My favourite tools at the moment are Figma, Neovim, Procreate on my iPad, and Notion (way too much Notion).
+My main tech stack is Python, C#, Tableau, and PowerBI. Looking into learning more about Go and CLI Tools currently. My favourite tools at the moment are Figma, Neovim, Procreate on my iPad, and Notion (way too much Notion).
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gemodriscoll/gemodriscoll/output/github-snake-dark.svg">
