@@ -2,11 +2,13 @@
 
 I'm **Gem**
 
-Currently: Master of Computer Science @ QUT | Previously: Psychology grad who switched from studying people to designing for them.
+Currently: Master of Teaching (Primary) @ Griffith University | Previously: studied Psychology, now applying it in the classroom instead.
 
-I like to build things I find cool and find stories hidden in data (but my interests are ever changing).
+I like to build my own classroom resources and digital tools instead of relying on a stack of subscription platforms — partly because I like making things, partly because young students deserve a fun, well-designed digital environment. This is mostly a space for me to tinker, but feel free to poke around or say hi.
 
-My main tech stack is Python, C#, Tableau, and PowerBI. Looking into learning more about Go and CLI Tools currently. My favourite tools at the moment are Figma, Neovim, Procreate on my iPad, and Notion (way too much Notion).
+I also like to build things I find cool and find stories hidden in data (but my interests are ever changing).
+
+My main tech stack is Python, C#, Tableau, and PowerBI — still very into CLI tools. My favourite tools at the moment are Figma, Neovim, and Procreate on my iPad.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gemodriscoll/gemodriscoll/output/github-snake-dark.svg">
